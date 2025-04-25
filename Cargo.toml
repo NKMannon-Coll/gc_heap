@@ -1,5 +1,5 @@
 [package]
-name = "gc_heap_template"
+name = "gc_heap"
 version = "0.2.0"
 edition = "2021"
 
